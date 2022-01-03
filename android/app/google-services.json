@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586267189053",
+    "project_id": "scrollmall",
+    "storage_bucket": "scrollmall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586267189053:android:a2d2803f63de0f855f2f54",
+        "android_client_info": {
+          "package_name": "com.scrollmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586267189053-35pcvc0jk79q6708pk0nuh4k0p9mk8hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRF5E6CxQ0_K_4gcID0i9MZrBommhde20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586267189053-35pcvc0jk79q6708pk0nuh4k0p9mk8hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

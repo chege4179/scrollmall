@@ -1,0 +1,10 @@
+
+const ChatConstants={
+    ADD_CHAT:'ADD_CHAT',
+    SEND_MESSAGE:'SEND_MESSAGE',
+    RECEIVE_MESSAGE:'RECEIVE_MESSAGE',
+    GET_CHATS:'GET_CHATS',
+    GET_INDIVIDUAL_CHATS:'GET_INDIVIDUAL_CHATS',
+
+}
+export default ChatConstants;
